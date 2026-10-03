@@ -1,2 +1,0 @@
-package com.plantcare.enums;
-public enum NotificationPriority { LOW, MEDIUM, HIGH, URGENT }
